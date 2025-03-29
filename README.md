@@ -1,1 +1,1 @@
-# hekurani-Hospital_Appointment_System_Frontend
+# Hospital_Appointment_System_Frontend
