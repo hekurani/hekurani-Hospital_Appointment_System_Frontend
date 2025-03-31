@@ -26,7 +26,7 @@ const Sidebar = () => {
                     <button 
                       className='py-3' 
                       onClick={() => {dispatch(toggleSidebar(!isSidebarCollapsed))}}>
-                        <X className='h-6 w-6 text-gray-800 hover:text-gray-500'/>
+                        <X className='h-6 w-6 text-gray-800 hover:text-gray-500 cursor-pointer'/>
                     </button>
                 )}
             </div>
